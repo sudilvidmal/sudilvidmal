@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning react and machine learning<br>🎯 Goals: To be successful Software Engineer and developed my own product</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning react and machine learning<br>🎯 Goals: To be successful Software Engineer and develop my own product</p>
 
 ###
 
