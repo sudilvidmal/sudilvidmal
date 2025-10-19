@@ -14,14 +14,6 @@
 
 ###
 
-<p align="center">I am Sudil Thenakoon, a third-year Software Engineering student at NSBM Green University, currently pursuing a BSc (HONS) in Software Engineering in affiliation with Plymouth University, UK. With strong communication and problem-solving skills, I have gained experience in various development environments. My education has equipped me with both technical and soft skills, making me a well-rounded candidate ready to tackle challenges and collaborate effectively in a professional setting.</p>
-
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
 <p align="center">
 I'm <b>Sudil Thenakoon</b> — a passionate <b>Software Engineer</b> with hands-on experience in <b>full-stack development, automation systems,</b> and <b>data-driven applications.</b>  
 I hold a <b>BSc (Hons) in Software Engineering (First Class Honours)</b> from <b>Plymouth University, UK</b> (affiliated with <b>NSBM Green University</b>).  
