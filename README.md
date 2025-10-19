@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sudilvidmal/count.svg?"  />
-</div>
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
