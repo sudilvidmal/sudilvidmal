@@ -4,11 +4,6 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/sudilvidmal/sudilvidmal/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
