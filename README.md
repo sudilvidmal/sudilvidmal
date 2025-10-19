@@ -18,11 +18,29 @@
 
 ###
 
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="center">
+I'm <b>Sudil Thenakoon</b> — a passionate <b>Software Engineer</b> with hands-on experience in <b>full-stack development, automation systems,</b> and <b>data-driven applications.</b>  
+I hold a <b>BSc (Hons) in Software Engineering (First Class Honours)</b> from <b>Plymouth University, UK</b> (affiliated with <b>NSBM Green University</b>).  
+I enjoy building modern, scalable, and user-focused software solutions while continuously learning new technologies and best practices.
+</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning react and machine learning<br>🎯 Goals: To be successful Software Engineer and develop my own product</p>
+<p align="left">
+✨ Turning ideas into code since 2022<br>
+📚 Currently exploring <b>React</b> and <b>Machine Learning</b><br>
+🎯 Goal: To become an innovative Software Engineer and build impactful tech products<br>
+🌱 Always learning, improving, and sharing knowledge
+</p>
+
 
 ###
 
